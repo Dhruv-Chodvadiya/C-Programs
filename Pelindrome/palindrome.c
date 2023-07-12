@@ -6,7 +6,6 @@ void main()
     int rev = 0;
     printf("Number :");
     scanf("%d", &n);
-
     temp = n;
     while (n != 0)
     {
