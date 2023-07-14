@@ -4,4 +4,13 @@
 	 <li>Fibonacci-series</li>
 	 <li>Pelindrome</li>
 	 <li>Prime Number</li>
+	 <li>Pattern</li>
+	 <ol><br>
+		 <li>first</li><br>
+		 * * * * *<br>
+		 * * * * *<br>
+		 * * * * *<br>
+		 * * * * *<br>
+		 * * * * *<br>
+	 </ol>
  </ul>
