@@ -36,5 +36,18 @@
 		 * * *<br>
 		 * * * * <br>
 		 * * * * *<br><br>
+		 <li>Full-Pyramid-Patterm</li>
+<!--    		 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*<br>
+   		 &nbsp;&nbsp; * * *<br> 
+                 * * * * * <br>
+  	         &nbsp;&nbsp;* * * * * * *<br> 
+  		 * * * * * * * * *<br> -->
+		 <pre>
+			*
+		      * * * 
+    		    * * * * * 
+  		  * * * * * * * 
+		* * * * * * * * * 
+		 </pre>
 	 </ol>
  </ul>
