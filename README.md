@@ -6,11 +6,35 @@
 	 <li>Prime Number</li>
 	 <li>Pattern</li>
 	 <ol><br>
-		 <li>first</li><br>
+		 <li>first</li>
 		 * * * * *<br>
 		 * * * * *<br>
 		 * * * * *<br>
 		 * * * * *<br>
+		 * * * * *<br><br>
+		 <li>Inverted-Left-Half-Pattern</li>
 		 * * * * *<br>
+		  &nbsp;&nbsp;   * * * *<br>
+		  &nbsp; &nbsp;&nbsp;    * * *<br>
+		  &nbsp; &nbsp; &nbsp; &nbsp;      * *<br>
+		  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       *<br><br>
+    		<li>Inverted-Right-Half-Pattern</li>
+		 * * * * *<br>
+		 * * * * <br>
+		 * * *<br>
+		 * * <br>
+		 *<br><br>
+		<li>Left-Half-Pattern</li>
+		 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;       *<br>
+		 &nbsp; &nbsp; &nbsp; &nbsp;      * *<br>
+		 &nbsp; &nbsp;&nbsp;    * * *<br>
+		 &nbsp;&nbsp;   * * * *<br>
+		 * * * * *<br><br>
+		 <li>Right-Half-Pattern</li>
+		 *<br> 
+		 * * <br> 
+		 * * *<br>
+		 * * * * <br>
+		 * * * * *<br><br>
 	 </ol>
  </ul>
